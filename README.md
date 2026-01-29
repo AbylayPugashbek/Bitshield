@@ -1,5 +1,3 @@
-This version of the README.md focuses on a clear introduction followed by a step-by-step setup guide, perfect for developers or teams getting started with the project.
-
 🛡️ Bitshield
 Bitshield is a decentralized corporate management system integrated into a Telegram Bot. It provides companies with a secure environment to manage shared crypto-wallets and store sensitive credentials (logins/passwords) directly on the blockchain, ensuring transparency and data integrity through smart contracts.
 
